@@ -30,3 +30,12 @@
 
 Именовать PR в формате: test-FIO-versionnumber
 **Ссылка на документацию:** https://docs.github.com/ru/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+
+### Задача на практику №2
+
+**Цель практики:** Работа в JupyterNotebook
+
+**Задание:** Необходимо воспроизвести процесс, который описан в файле ex2Jupyter.pdf. Результат нужно загрузить в любую систему контроля версий (GitLab,GitHub, Bitbucket, и.т.д) на ваш выбор и скинуть ссылку в ветку с заданием. 
+
+Инструменты для выполнения задания: Вы можете организовывать ваши блокноты любым удобным вам способом.
